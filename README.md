@@ -29,5 +29,6 @@ Submissions of all problem statement solutions.
 | CodeX | [SwapX](https://github.com/aryamansingh04/SwapX) |
 | Team Know Issues IIIT event | [Bhubaneswar-project--Frontend](https://github.com/WadoKira/Bhubaneswar-project--Frontend.git) |
 | Just-Git-Gud  | [LECTRA](https://github.com/Aqwerty321/Lectra) |
+| TEAM CEASAR | [HAWKEYE](https://github.com/alvinalobo/HAWKEYE) |
 |DIAMOND            | https://github.com/gayatrimishraa/Project_Kaushal |
 
